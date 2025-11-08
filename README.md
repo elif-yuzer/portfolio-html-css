@@ -1,6 +1,14 @@
-# 🚀 Harvey Watson - Portfolio Website
+# 🚀 Portfolio Website
 
 A professional portfolio website showcasing my work as a Full Stack Developer, built with modern design principles and responsive architecture.
+
+## 🌐 Live Demo
+
+**[View Live Website](https://elif-yuzer.github.io/portfolio-html-css/)**
+
+### Demo Preview
+
+![Portfolio Website Demo](images/demo.png)
 
 ---
 
@@ -53,8 +61,8 @@ Technology Stack:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/username/portfolio.git
-cd portfolio
+git clone https://github.com/elif-yuzer/portfolio-html-css.git
+cd portfolio-html-css
 ```
 
 ### 2. Dependencies
@@ -186,6 +194,12 @@ Fluid typography is used throughout:
 ---
 
 ## 🚀 Deployment
+
+### Live Website
+**[https://elif-yuzer.github.io/portfolio-html-css/](https://elif-yuzer.github.io/portfolio-html-css/)**
+
+### GitHub Repository
+**[https://github.com/elif-yuzer/portfolio-html-css](https://github.com/elif-yuzer/portfolio-html-css)**
 
 ### GitHub Pages
 1. Go to repository settings
